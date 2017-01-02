@@ -14,6 +14,9 @@
     "start": "ember server",
     "test": "ember test"
   },
+  "dependencies": {
+    "ember-choice-i18n": "*"
+  },
   "devDependencies": {
     "broccoli-asset-rev": "^2.5.0",
     "cssnano": "^3.9.1",
@@ -36,6 +39,7 @@
     "ember-css-modules": "0.6.4",
     "ember-data": "^2.10.0",
     "ember-export-application-global": "^1.1.1",
+    "ember-intl": "2.16.3",
     "ember-load-initializers": "^0.6.3",
     "ember-math-helpers": "2.0.2",
     "ember-resolver": "^2.1.1",
